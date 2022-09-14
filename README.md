@@ -24,5 +24,5 @@ The following **extensions** are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/nikhildahiya24/Tip-Caluculator/blob/main/Tip%20Calculator%20Gif.gif' />
 
